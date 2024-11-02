@@ -29,7 +29,7 @@ while True:
             print("Too low!")
 
         if i == 9:
-            print("\nToo many guesses, you lose")
+            print("\nToo many guesses, you lose.")
             print("Game Summary:")
             print(f"Your guesses: {attempts}")
             print(f"Even guesses: {even_attempts}")
