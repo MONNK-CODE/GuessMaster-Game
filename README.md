@@ -25,7 +25,6 @@ Create a number guessing game where the player attempts to guess a randomly sele
 - Allow the player to restart the game if desired.
 
 ## Requirements
-
 - Use a **for loop** to iterate through the 10 attempts.
 - Use a **while loop** to ask if the player wants to restart the game.
 - Use **if statements** to check if the guess is too high, too low, or correct.

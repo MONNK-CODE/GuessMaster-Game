@@ -4,7 +4,7 @@ even_attempts = []
 odd_attempts = []
 while True:
     random_num = random.randint(1, 100)
-    print(random_num)
+    #print(random_num)
     for i in range(10):
         guess = int(input(f"Attempt {i + 1}: I'm thinking of a number between 1 and 100. You have {10 - i} attempts left: "))
         attempts.append(guess)
