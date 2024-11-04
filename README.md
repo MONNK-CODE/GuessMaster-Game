@@ -1,4 +1,4 @@
-# Number Guessing Game with Statistics
+# Number Guessing Game
 
 ## Challenge
 
